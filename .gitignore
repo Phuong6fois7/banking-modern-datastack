@@ -1,0 +1,6 @@
+.env
+docker/postgres/data/
+docker/minio/data/
+docker/logs/
+__pycache__/
+*.pyc
