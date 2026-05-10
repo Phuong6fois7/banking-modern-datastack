@@ -1,4 +1,6 @@
-.env
+.venv/
+data-generator/.env
+kafka-debezium/.env
 docker/postgres/data/
 docker/minio/data/
 docker/logs/
