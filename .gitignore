@@ -1,6 +1,7 @@
 .venv/
 data-generator/.env
 kafka-debezium/.env
+consumer/.env
 docker/postgres/data/
 docker/minio/data/
 docker/logs/
